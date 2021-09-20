@@ -14,6 +14,7 @@
 
 ## Project purpose
 <p>Artco's purpose is to connect artists and venue owners together so that:</p>
+
 ![image](https://user-images.githubusercontent.com/63182043/133951688-0d8e2e93-3054-4e42-b339-43a15384b046.png)
 ![image](https://user-images.githubusercontent.com/63182043/133951421-77ca5d38-a441-4231-97c8-fa6047f66458.png)
 
